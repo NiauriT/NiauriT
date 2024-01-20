@@ -1,7 +1,7 @@
-- 🙌 Hi, I’m @NiauriT
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JS
-- 📫 How to reach me thornnike@gmail.com
+-  Hi, I’m @NiauriT
+-  I’m interested in Web Development
+-  I’m currently learning JS
+-  How to reach me thornnike@gmail.com
 
 <!---
 NiauriT/NiauriT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
