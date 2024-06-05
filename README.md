@@ -1,6 +1,6 @@
 -  Hi, I’m @NiauriT
 -  I’m interested in Web Development
--  I’m currently learning JS
+-  I’m currently learning REACT
 -  How to reach me thornnike@gmail.com
 
 <!---
