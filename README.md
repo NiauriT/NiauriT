@@ -7,9 +7,8 @@ I'm an aspiring **React Developer** focused on building clean and responsive web
 - JavaScript (ES6+)
 - HTML & CSS (Responsive layouts, Flexbox, Grid)
 
-## 📚 Currently Learning
-- React Hooks and Context API
-- JavaScript best practices
+## 📚 Currently Mastering
+- React 
 - Git and version control
 
 ## 🚀 Goals
