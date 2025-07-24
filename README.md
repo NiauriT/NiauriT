@@ -18,7 +18,7 @@ I'm an aspiring **React Developer** focused on building clean and responsive web
 - Collaborate with other developers
 
 ## 🔗 Connect with me
-- [LinkedIn](http://linkedin.com/in/tornike-niauri-03596718b)
+- [LinkedIn](http://linkedin.com/in/tornike-niauri-03596718b) <--- See my profile
 - [Vercel](https://vercel.com/tornikes-projects-b14741ed) <--- See my projects live
   
 <!---
