@@ -19,7 +19,7 @@ I'm an aspiring **React Developer** focused on building clean and responsive web
 
 ## 🔗 Connect with me
 - [LinkedIn](http://linkedin.com/in/tornike-niauri-03596718b)
-- [Vercel](https://vercel.com/tornikes-projects-b14741ed)
+- [Vercel](https://vercel.com/tornikes-projects-b14741ed) <--- See my projects live
   
 <!---
 NiauriT/NiauriT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
