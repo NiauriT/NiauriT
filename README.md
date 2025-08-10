@@ -3,9 +3,10 @@
 I'm an aspiring **React Developer** focused on building clean and responsive web applications.
 
 ## 🛠️ Tech Stack
-- React (Learning and building projects)
+- React (State Management, React Hooks, Redux, Router)
 - JavaScript (ES6+)
 - HTML & CSS (Responsive layouts, Flexbox, Grid)
+- Typescript
 
 ## 📚 Currently Mastering
 - React Hooks, React Router, Redux
